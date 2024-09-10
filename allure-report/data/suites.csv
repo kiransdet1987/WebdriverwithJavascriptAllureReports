@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1141","Social Security fields should display/hide based on Social Security benefits toggle","","Tue Sep 10 11:58:29 EDT 2024","passed","Tue Sep 10 11:58:30 EDT 2024","","Submit form with all required fields","Submit form with all required fields","Social Security fields should display/hide based on Social Security benefits toggle"
+"","337","submit form with all fields","","Tue Sep 10 11:58:35 EDT 2024","passed","Tue Sep 10 11:58:35 EDT 2024","","Submit form with all required fields","Submit form with all required fields","submit form with all fields"
+"","11159","Submit form with all fields filled in","","Tue Sep 10 11:58:18 EDT 2024","passed","Tue Sep 10 11:58:29 EDT 2024","","Submit form with all required fields","Submit form with all required fields","Submit form with all fields filled in"
+"","4648"," Update default calculator values","","Tue Sep 10 11:58:30 EDT 2024","passed","Tue Sep 10 11:58:35 EDT 2024","","Submit form with all required fields","Submit form with all required fields"," Update default calculator values"
